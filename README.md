@@ -1,2 +1,0 @@
-# FindingFoodRecipes
-Created with CodeSandbox
